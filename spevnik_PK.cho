@@ -1,17 +1,42 @@
-﻿{x_spevnik_comment: This file is Peter Korenciak's songlist written in form inspired by ChordPro 5.0 plus using some additional formatting, such as:
-- bold formatting inspired by markdown: Mark text in double asterisks, like **this**, to make it bold. TBD: alebo to spravit direktivou x_spevnik_strong???
-- additional metadata not defined by ChordPro standard}
+﻿{x_spevnik_comment: This file is Peter Korenciak's songlist written in form inspired by ChordPro 5.0}
+{x_spevnik_comment: plus using some additional formatting, such as:}
+{x_spevnik_comment: - bold formatting inspired by markdown: Mark text in double asterisks, like }
+{x_spevnik_comment: **this**, to make it bold. TBD: alebo to spravit direktivou x_spevnik_strong???}
+{x_spevnik_comment: - additional metadata not defined by ChordPro standard}
 
+{x_spevnik_comment: Definicie zapisov akordov, ako ich mam dole, tak aby ChordPro nevyhadzoval chyby:}
+{x_spevnik_comment: (Zatial nepresne, casom tie definicie mozem opravit alebo tie akordy nahradit standardnejsim zapisom.)}
+{define: Ami             base-fret  1    frets   X   0   2   2   1   0   }
+{define: H7              base-fret  1    frets   X   0   2   2   1   0   }
+{define: Emi             base-fret  1    frets   X   0   2   2   1   0   }
+{define: Dmi             base-fret  1    frets   X   0   2   2   1   0   }
+{define: Dmi_2x          base-fret  1    frets   X   0   2   2   1   0   }
+{define: Ami2            base-fret  1    frets   X   0   2   2   1   0   }
+{define: G1              base-fret  1    frets   X   0   2   2   1   0   }
+{define: C1              base-fret  1    frets   X   0   2   2   1   0   }
+{define: G2              base-fret  1    frets   X   0   2   2   1   0   }
+{define: C_3_doby        base-fret  1    frets   X   0   2   2   1   0   }
+{define: D_3_doby        base-fret  1    frets   X   0   2   2   1   0   }
+{define: Fismi           base-fret  1    frets   X   0   2   2   1   0   }
+{define: Hmi             base-fret  1    frets   X   0   2   2   1   0   }
+{define: A2              base-fret  1    frets   X   0   2   2   1   0   }
+{define: D/D             base-fret  1    frets   X   0   2   2   1   0   }
+{define: F#mi            base-fret  1    frets   X   0   2   2   1   0   }
+{define: Cmaj_P123       base-fret  1    frets   X   0   2   2   1   0   }
+{define: Emi_P123        base-fret  1    frets   X   0   2   2   1   0   }
+{define: D_P123          base-fret  1    frets   X   0   2   2   1   0   }
+{define: D_(G)           base-fret  1    frets   X   0   2   2   1   0   }
+{define: G_(C)           base-fret  1    frets   X   0   2   2   1   0   }
+{define: A_(D)           base-fret  1    frets   X   0   2   2   1   0   }
 
-{meta:title Okoř}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161222}
-{meta:c_strany_v_papierovom_spevniku 5}
-{meta:link_lekcia https://www.youtube.com/watch?v=MZNASoV0HrI&index=7&list=PLuNrbph9Cef56KGo_PZkOCtSZfnYzEsij}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1Winje1TDmGpIhLdMEUDRFHmNv_S6yP4x4zJYCJy7t-E/edit?usp=sharing}
+{title: Okoř}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161222}
+{x_spevnik_c_strany_v_papierovom_spevniku 5}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=MZNASoV0HrI&index=7&list=PLuNrbph9Cef56KGo_PZkOCtSZfnYzEsij}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1Winje1TDmGpIhLdMEUDRFHmNv_S6yP4x4zJYCJy7t-E/edit?usp=sharing}
 
 [D]Na Okoř je cesta jako žádná ze sta [A]vroubená je stroma[D]ma,(stromama)
 když jdu po ní v létě samoten na světě [A]sotva pletu noha[D]ma,(nohama)
@@ -29,15 +54,14 @@ nikdo neví dodnes kdo to tenkrát vodnes nikdo nebyl dopaden,(dopaden)
 místo aby hlídal zuřivě jí líbal dostal z toho zimnici. 
 
 {new_song}
-{meta:title Bláznova ukolébavka}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161222}
-{meta:c_strany_v_papierovom_spevniku 6}
-{meta:link_lekcia https://www.youtube.com/watch?v=DS27k5-VMoc&index=6&list=PLuNrbph9Cef56KGo_PZkOCtSZfnYzEsij}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMV1c4cW84TGVRdHc/view?usp=sharing}
+{title: Bláznova ukolébavka}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161222}
+{x_spevnik_c_strany_v_papierovom_spevniku 6}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=DS27k5-VMoc&index=6&list=PLuNrbph9Cef56KGo_PZkOCtSZfnYzEsij}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMV1c4cW84TGVRdHc/view?usp=sharing}
 
 [D]Máš má ovečko [A]dávno spát, už [G]píseň ptáků [D]končí.
 [D]Kvůli nám přestal [A]vítr vát, jen [G]můra zírá [D]zvenčí.
@@ -60,15 +84,14 @@ Přijdou se ptát, zítra zas přijdou se ptát
 jestli ty v mých představách už mizíš.**
 
 {new_song}
-{meta:title Bedna od whisky}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161222}
-{meta:c_strany_v_papierovom_spevniku 7}
-{meta:link_lekcia https://www.youtube.com/watch?v=REzrtvVm6IM&index=5&list=PLuNrbph9Cef56KGo_PZkOCtSZfnYzEsij}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMZUhFR0syQk90SG8/view?usp=sharing}
+{title: Bedna od whisky}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161222}
+{x_spevnik_c_strany_v_papierovom_spevniku 7}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=REzrtvVm6IM&index=5&list=PLuNrbph9Cef56KGo_PZkOCtSZfnYzEsij}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMZUhFR0syQk90SG8/view?usp=sharing}
 
 [Ami]Dneska už mně [C]fóry ňák [Ami]nejdou přes pys[E]ky,
 [Ami]stojím s dlouhou [C]kravatou na [Ami]bedně [E]vod whis[Ami]ky,
@@ -96,16 +119,15 @@ jenom dírka mrňavá a k smrti jenom krok,
 má to smutnej konec, a whisky ani lok.
 
 {new_song}
-{meta:title Hlídač krav}
-{meta:subtitle S akordami na poslednú časť (vyššie) od Márie.}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 8}
-{meta:link_lekcia https://www.youtube.com/watch?v=BET7XyLY2Y8}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1f-6qdtvOtXascqZVuEUlneC3W3sNej8EQK_Or68ge38/edit?usp=sharing}
+{title: Hlídač krav}
+{subtitle: S akordami na poslednú časť (vyššie) od Márie.}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 8}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=BET7XyLY2Y8}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1f-6qdtvOtXascqZVuEUlneC3W3sNej8EQK_Or68ge38/edit?usp=sharing}
 
 [D]Když jsem byl malý, říkali mi naši: Dobře se uč a jez chytrou kaši.
 [G]Až jednou vyrosteš, [A]budeš doktorem [D]práv.
@@ -137,16 +159,15 @@ kde se mezi mraky honí, moje strakaté krávy.
 [H7] | [E]Pam pam pa dam pam … [A]  [H7]  [E]  [A]  [E]  [H7]  [E]**
 
 {new_song}
-{meta:title Anděl}
-{meta:subtitle Dušanov text s akordami od Michaely Medek.}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 9}
-{meta:link_lekcia https://www.youtube.com/watch?v=T0GtDu39vSc}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1f-6qdtvOtXascqZVuEUlneC3W3sNej8EQK_Or68ge38/edit?usp=sharing}
+{title: Anděl}
+{subtitle: Dušanov text s akordami od Michaely Medek.}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 9}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=T0GtDu39vSc}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1f-6qdtvOtXascqZVuEUlneC3W3sNej8EQK_Or68ge38/edit?usp=sharing}
 
 [G]Z rozmláce[Emi]nýho kostela, 
 [G]v krabici [D]s kusem mýdla.
@@ -175,14 +196,13 @@ Však přítel prý mi udělá novýho z mojí helmy.
 A proto prosím věř mi ...
 
 {new_song}
-{meta:title Severní vítr}
-{meta:subtitle Dušanov text (115) s akordami od Márie.}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 10}
-{meta:link_vzor_hudby TBD}
+{title: Severní vítr}
+{subtitle: Dušanov text (115) s akordami od Márie.}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 10}
+{x_spevnik_link_vzor_hudby TBD}
 {comment: Valčíkový rytmus: ↓--↑↓↑↓}
 {comment: Pre tieto akordy kapodaster do 2. políčka.}
 
@@ -213,16 +233,15 @@ a nad hrobem polární zář.
 R: Severní vítr je krutý...
 
 {new_song}
-{meta:title Řekni, kde ty kytky jsou}
-{meta:subtitle 8. lekce kytary od Michaely Medek.}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 11}
-{meta:link_lekcia https://www.youtube.com/watch?v=sCdvSDOi0cQ}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1Tko41CzxQGcobZIKBV2Ru8zUigK_EwAZ_fvTx4EL8dg/edit?usp=sharing}
+{title: Řekni, kde ty kytky jsou}
+{subtitle: 8. lekce kytary od Michaely Medek.}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 11}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=sCdvSDOi0cQ}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1Tko41CzxQGcobZIKBV2Ru8zUigK_EwAZ_fvTx4EL8dg/edit?usp=sharing}
 
 [G]Řekni kde ty [Emi]kytky jsou, [Ami]co se tady [D]mohlo stát
 [G]řekni kde ty [Emi]kytky jsou, [Ami]kde mohou [D]být.
@@ -250,16 +269,15 @@ Co tu kytek rozkvétá od jara do léta
 kdo to kdy pochopí, kdo to kdy pochopí.
 
 {new_song}
-{meta:title Stánky}
-{meta:subtitle 9. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 12}
-{meta:link_lekcia https://www.youtube.com/watch?v=hgbzVTbdBbc}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1zPCJFWhp1RxK99YT7fgO8kUon3kTLFZAsFghLGlwFr4/edit}
+{title: Stánky}
+{subtitle: 9. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 12}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=hgbzVTbdBbc}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1zPCJFWhp1RxK99YT7fgO8kUon3kTLFZAsFghLGlwFr4/edit}
 
 [A]U stánků [D]na levnou krásu
 [A]postávaj a [Dmi]smějou se času,
@@ -279,16 +297,15 @@ tak [A]málo je, tak [Dmi]málo je lásky,
 Jen zahlídli svět...
 
 {new_song}
-{meta:title Sedmikráska}
-{meta:subtitle 10. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 13}
-{meta:link_lekcia https://www.youtube.com/watch?v=Gi2eve-KvP4}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1hxsHNuy7Guamt2ISXVBvE-zRgJsEgBjxPB6kW7hUnCo/edit}
+{title: Sedmikráska}
+{subtitle: 10. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 13}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=Gi2eve-KvP4}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1hxsHNuy7Guamt2ISXVBvE-zRgJsEgBjxPB6kW7hUnCo/edit}
 {comment: Vybrnkávanie: P123}
 
 [Ami]V řece plavou bílý lístky, sedmikrásky někdo blízký,
@@ -304,18 +321,18 @@ Uschla kytka na kamenech, vezmi ji a v knížce nech ji
 pro vzpomínku u básniček, ze kterých ti po večerech čet.
 
 {new_song}
-{meta:title Kometa}
-{meta:subtitle 11. lekce kytary}
-{meta:artist Jaromír Nohavica}
-{meta:interpret_meno Jaromír}
-{meta:interpret_priezvisko Nohavica}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 14}
-{meta:link_lekcia https://www.youtube.com/watch?v=VTb0U-s2_5A}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1wuIuAyw8MMi_0TQQHpxoLPf9ul4dpR4MCx72sqLpntU/edit}
+{title: Kometa}
+{subtitle: 11. lekce kytary}
+{x_spevnik_artist Jaromír Nohavica}
+{x_spevnik_interpret_meno Jaromír}
+{x_spevnik_interpret_priezvisko Nohavica}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 14}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=VTb0U-s2_5A}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1wuIuAyw8MMi_0TQQHpxoLPf9ul4dpR4MCx72sqLpntU/edit}
 {comment: Vybrnkávanie: P12321}
 
 [Ami]Spatřil jsem kometu, oblohou letěla, chtěl jsem jí zazpívat, ona mi zmizela,
@@ -324,8 +341,8 @@ pro vzpomínku u básniček, ze kterých ti po večerech čet.
 Penízky ukryl jsem do hlíny pod dubem, až příště přiletí, my už tu nebudem,
 my už tu nebudem, ach, pýcho marnivá, spatřil jsem kometu, chtěl jsem jí zazpívat.
 
-**[Ami]O vodě, o trávě, [Dmi 2x]o lese, [G]o smrti, se kterou smířit ne[C]jde se,   [E]
-[Ami]o lásce, o zradě, [Dmi 2x]o světě a [E]o všech lidech, co kdy žili na téhle pla[Ami]netě.**
+**[Ami]O vodě, o trávě, [Dmi_2x]o lese, [G]o smrti, se kterou smířit ne[C]jde se,   [E]
+[Ami]o lásce, o zradě, [Dmi_2x]o světě a [E]o všech lidech, co kdy žili na téhle pla[Ami]netě.**
 
 Na hvězdném nádraží cinkají vagóny, pan Kepler rozepsal nebeské zákony,
 hledal, až nalezl v hvězdářských triedrech tajemství, která teď neseme na bedrech.
@@ -343,16 +360,15 @@ až příště přiletí, ach, pýcho marnivá, my už tu nebudem, ale jiný jí
 o lásce, o zradě, o světě, bude to písnička o nás a kometě ...**
 
 {new_song}
-{meta:title Slavíci z Madridu}
-{meta:subtitle 12. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 15}
-{meta:link_lekcia https://www.youtube.com/watch?v=mRw4LEq9B2A}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1Ud6CcOUQYVWqeZkUaFL29QYATzRK846mrpZeDHHLQRc/edit}
+{title: Slavíci z Madridu}
+{subtitle: 12. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 15}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=mRw4LEq9B2A}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1Ud6CcOUQYVWqeZkUaFL29QYATzRK846mrpZeDHHLQRc/edit}
 
 [Am]la lalala lalala [Em]la lalala lalála
 [H7]la lalala lalala [Em]lá 2x
@@ -375,16 +391,15 @@ někdo má pletky rád, já radši sklenici vína.
 **R:Žízeň je veliká, ...**
 
 {new_song}
-{meta:title Podvod}
-{meta:subtitle 13. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 16}
-{meta:link_lekcia https://www.youtube.com/watch?v=U7BKD1sUCLo}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1vlADOmtiLSkxmiizOQ3FvzsVRfg6eanPB4a0nC7-xqI/edit}
+{title: Podvod}
+{subtitle: 13. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 16}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=U7BKD1sUCLo}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1vlADOmtiLSkxmiizOQ3FvzsVRfg6eanPB4a0nC7-xqI/edit}
 {comment: Vybrnkávanie (slohy): P123}
 {comment: Rytmus (refrén): ↓-↓↑↓↑↓}
 
@@ -410,16 +425,15 @@ je skoro půlnoc a z kostela zvon mi noc připomíná,
 půjdu se mejt a pozhasínám, co bude dál?
 
 {new_song}
-{meta:title Proměny}
-{meta:subtitle 14. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 17}
-{meta:link_lekcia https://www.youtube.com/watch?v=8OwNvoVM9Ok}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1EFjDjDA9036l6hiGgp_OT-wBE3xb7O4a-8alNEMliTw/edit}
+{title: Proměny}
+{subtitle: 14. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 17}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=8OwNvoVM9Ok}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1EFjDjDA9036l6hiGgp_OT-wBE3xb7O4a-8alNEMliTw/edit}
 {comment: Rytmus: ↓--↑↓↑}
 
 ONA: [Ami]Darmo sa ty trápíš m[G]ůj milý syneč[C]ku, nenosím já tebe, ne[E]nosím 
@@ -455,22 +469,21 @@ na nebi, a ty musíš býti má, lebo mi tě pán Bůh dá.
 OBA: A ty musíš býti má, lebo mi tě pán Bůh dá.
 
 {new_song}
-{meta:title Hallelujah}
-{meta:subtitle 15. lekce kytary}
-{meta:name content}
-{meta:lang en}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 18}
-{meta:link_lekcia https://www.youtube.com/watch?v=SrBt68SrLfM}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1lpuDFCuEAq951uOoQiS73wjFszYVQz8bSjZ7bKC67KE/edit}
+{title: Hallelujah}
+{subtitle: 15. lekce kytary}
+{x_spevnik_lang en}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 18}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=SrBt68SrLfM}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1lpuDFCuEAq951uOoQiS73wjFszYVQz8bSjZ7bKC67KE/edit}
 {comment: Vybrnkávanie: P12321}
 
 [G]I heard there was a [Emi]secret chord
 That [G]David played and it [Emi]pleased the Lord
 But [C]you don't really [D]care for music, [G]do you?   [D]
-Well [G]goes like this... the fou[C 3 doby]rth, the fif[D 3 doby]th
+Well [G]goes like this... the fou[C_3_doby]rth, the fif[D_3_doby]th
 The [Emi]minor fall and the [C]major lift,
 The [D]baffled King com[H7]posing Hallelu[Emi]jah
 
@@ -498,16 +511,15 @@ Hallelujah, Hallelujah
 Hallelujah, Hallelujah
 
 {new_song}
-{meta:title Pampelišky}
-{meta:subtitle 16. lekce kytary plus moje hádanie akordov pre ďalšie strofy}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 19}
-{meta:link_lekcia https://www.youtube.com/watch?v=Zc3CDl6VEXE}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1UBmMJF8pO7PMNEcQ-MrFRRzB60K8Jsuq9Ibj5aod5jU/edit}
+{title: Pampelišky}
+{subtitle: 16. lekce kytary plus moje hádanie akordov pre ďalšie strofy}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 19}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=Zc3CDl6VEXE}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1UBmMJF8pO7PMNEcQ-MrFRRzB60K8Jsuq9Ibj5aod5jU/edit}
 {comment: Rytmus: ↓-↓↑-↑↓↑}
 {comment: Pre tieto akordy kapodaster do 2. políčka.}
 {comment: E7 pustením 3. prstu pri E.}
@@ -528,27 +540,26 @@ Tam v kolíbce malý hošík spí, přemýšlím, o čem tak asi sní.
 [E]Zdědil mou hůl a [E7]tornu toula[A]vou, [Ami]půjde [E]tam, kde [H7]pampelišky zlaté jso[E]u.
 
 {new_song}
-{meta:title Na kameni kámen}
-{meta:subtitle 17. lekce kytary - má tie akordy posunuté od originálu, plus môj odhad akordov poslednej strofy.}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 20}
-{meta:link_lekcia https://www.youtube.com/watch?v=yqzK8Jrs0PE}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/19IGp_fT-BkHlIijNQnF_4a8vHNZIvXA0WE12b28nao0/edit}
+{title: Na kameni kámen}
+{subtitle: 17. lekce kytary - má tie akordy posunuté od originálu, plus môj odhad akordov poslednej strofy.}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 20}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=yqzK8Jrs0PE}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/19IGp_fT-BkHlIijNQnF_4a8vHNZIvXA0WE12b28nao0/edit}
 {comment: Vybrnkávanie: P1213121}
 {comment: Cmaj je C bez ukazováku a aby sa lepsie vymieňalo s G, tak sa drží 1. a 2. prstom; bas A.}
 
 [G]Jako suchej,starej strom, jako [Cmaj]všeničící hrom,
 jak v poli [G]tráva            [G]
-[G]připadá mi ten náš svět, plnej [Cmaj P123]řečí,
+[G]připadá mi ten náš svět, plnej [Cmaj_P123]řečí,
 a čím [Emi]víc, tím [D]líp se [G]mám.
 
-**Budem o něco se rvát, až tu [Emi P123]nezůstane [D P123]stát
+**Budem o něco se rvát, až tu [Emi_P123]nezůstane [D_P123]stát
 na kameni kámen,
-a jestli [Cmaj]není žádnej Bůh, tak nás [Emi P123]vezme země – vz[D P123]duch,
+a jestli [Cmaj]není žádnej Bůh, tak nás [Emi_P123]vezme země – vz[D_P123]duch,
 no, a potom [G]amen.**
 
 A to všechno proto jen, že pár pánů chce mít den
@@ -566,16 +577,15 @@ na [Emi]všechno [D]kolem [G]nás.
 **Budem o něco se rvát ...**
 
 {new_song}
-{meta:title Neopatrný křeček}
-{meta:subtitle 18. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 21}
-{meta:link_lekcia https://www.youtube.com/watch?v=iCUMH0CVXGE}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1bh2m6QgrKgrRVmer8XRHA7Sw74q26f8pAnGMfclMETo/edit}
+{title: Neopatrný křeček}
+{subtitle: 18. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 21}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=iCUMH0CVXGE}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1bh2m6QgrKgrRVmer8XRHA7Sw74q26f8pAnGMfclMETo/edit}
 {comment: Vybrnkávanie: P + (EHG)naraz}
 {comment: A7 - ľahká verzia: A bez prostredníka; bas A striedať s E alebo D}
 {comment: E7 - ľahká verzia: E bez 3. prstu; bas E striedať s A a D}
@@ -593,16 +603,15 @@ spravil by to [E7]náprstek [A7]nějakého [D]moku.
 [H7]leda bych měl [E7]na zádech [A7]odrazové [D]stopky.
 
 {new_song}
-{meta:title Pískající cikán}
-{meta:subtitle 19. lekce kytary}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 22}
-{meta:link_lekcia https://www.youtube.com/watch?v=_j3g83ZcJbw}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1wT7NglHn9t9NFG_RgWSDa4MvZMIuXfgcc4BsdiAz_lA/edit}
+{title: Pískající cikán}
+{subtitle: 19. lekce kytary}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 22}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=_j3g83ZcJbw}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1wT7NglHn9t9NFG_RgWSDa4MvZMIuXfgcc4BsdiAz_lA/edit}
 {comment: Vybrnkávanie: P + (EHG)naraz}
 {comment: Fismi - ľahká verzia: iba baré a prsty 3 a 4 ignorujeme, lebo pri tomto vybrnkávaní to je jedno}
 
@@ -628,20 +637,19 @@ spravil by to [E7]náprstek [A7]nějakého [D]moku.
    peníze často nejsou nic, má víc, kdo po svém si píská ...
 
 {new_song}
-{meta:title Cesta}
-{meta:subtitle 20. lekce kytary}
-{meta:artist Kryštof}
-{meta:artist Klus}
-{meta:interpret_meno}
-{meta:interpret_priezvisko Klus}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1.0}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 23}
-{meta:link_lekcia https://www.youtube.com/watch?v=L4Wrw1qUuiM}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMcXRpUnlNYWVhWFE/view}
+{title: Cesta}
+{subtitle: 20. lekce kytary}
+{x_spevnik_artist Kryštof}
+{x_spevnik_artist Klus}
+{x_spevnik_interpret_meno}
+{x_spevnik_interpret_priezvisko Klus}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1.0}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 23}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=L4Wrw1qUuiM}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMcXRpUnlNYWVhWFE/view}
 {comment: Vybrnkávanie (slohy): P12321}}
 {comment: Rytmus (refrén): ↓↑↑}
 {comment: Rytmus (refrén): ↓-↑↓↑↓}
@@ -675,17 +683,16 @@ Přestat se zbytečně ptát
 **Jestli se blížím k cíli...**
 
 {new_song}
-{meta:title Zafúkané}
-{meta:subtitle 21. lekce kytary}
-{meta:artist Fleret}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 24}
-{meta:link_lekcia https://www.youtube.com/watch?v=nZAs6W3Qab8}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1XQCCwV4M8Ac7nJMTnttgQv-YOCAQr_FK5lO4_Juu8E8/edit}
+{title: Zafúkané}
+{subtitle: 21. lekce kytary}
+{x_spevnik_artist Fleret}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 24}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=nZAs6W3Qab8}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1XQCCwV4M8Ac7nJMTnttgQv-YOCAQr_FK5lO4_Juu8E8/edit}
 {comment: Rytmus: ↓--↑↓↑}
 {comment: A2 - Ami bez ukazováku}
 {comment: D7 - opačný trojuholník ako D na tých istých strunách}
@@ -716,15 +723,14 @@ Zafúkané, zafúkané
 Mé stopy k tobě sú zafúkané**
 
 {new_song}
-{meta:title Hruška}
-{meta:artist Čechomor}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161223}
-{meta:c_strany_v_papierovom_spevniku 25}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text http://www.velkyzpevnik.cz/zpevnik/cechomor/hruska}
+{title: Hruška}
+{x_spevnik_artist Čechomor}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161223}
+{x_spevnik_c_strany_v_papierovom_spevniku 25}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text http://www.velkyzpevnik.cz/zpevnik/cechomor/hruska}
 
 [A]   S[D]tojí hruška v šir[A]ém po[D]li
    v[D]ršek se jí z[G]elen[A]á 
@@ -748,15 +754,14 @@ Mé stopy k tobě sú zafúkané**
       panny [A/D]černoo[D/D]ké :/
 
 {new_song}
-{meta:title Gorale}
-{meta:artist Čechomor}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 26}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text http://www.supermusic.sk/skupina.php?idpiesne=14603&sid=}
+{title: Gorale}
+{x_spevnik_artist Čechomor}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 26}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text http://www.supermusic.sk/skupina.php?idpiesne=14603&sid=}
 
 [D]Za lasami [G]za gorami [A]za dolina[D]mi 
 pobili sie [G]dwaj gorale [A]ciupagami 
@@ -787,15 +792,14 @@ ma goralka [G]z przodu z tylu
 [A]podzielita [D]sie:/
 
 {new_song}
-{meta:title Mezi horami}
-{meta:artist Čechomor}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 27}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text http://www.supermusic.sk/skupina.php?action=piesen&idskupiny=528&idpiesne=185587}
+{title: Mezi horami}
+{x_spevnik_artist Čechomor}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 27}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text http://www.supermusic.sk/skupina.php?action=piesen&idskupiny=528&idpiesne=185587}
 
 /:[Ami]MeziGhorami[Ami] 
 [C]lipka[G]zelená[C]:/ 
@@ -822,32 +826,31 @@ A viac nevstala
 Dobrá Anička
 
 {new_song}
-{meta:title Kozel}
-{meta:subtitle V D dur z lekcie gitary Michaely Medek}
-{meta:artist Jaromír Nohavica}
-{meta:interpret_meno Jaromír}
-{meta:interpret_priezvisko Nohavica}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2.0}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 28}
-{meta:link_lekcia https://www.youtube.com/watch?v=6n29QUepi20}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1f-6qdtvOtXascqZVuEUlneC3W3sNej8EQK_Or68ge38/edit?usp=sharing}
+{title: Kozel}
+{subtitle: V D dur z lekcie gitary Michaely Medek}
+{x_spevnik_artist Jaromír Nohavica}
+{x_spevnik_interpret_meno Jaromír}
+{x_spevnik_interpret_priezvisko Nohavica}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2.0}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 28}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=6n29QUepi20}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1f-6qdtvOtXascqZVuEUlneC3W3sNej8EQK_Or68ge38/edit?usp=sharing}
 {comment: Rytmus: Základný na 4 doby: ↓↑↓↑}
 {comment: Rytmus: Pionýrák}
 {comment: Rytmus: Dôraz na 2. dobu.}
 {comment: Akordy v zátvorkách sú pre ukulele v G dur.}
 
-Byl jeden [D (G)]pán (byl jeden pán)
-ten kozla [G (C)]měl (ten kozla měl)
-velice [A (D)]si (velice si)
-s ním rozu[D (G)]měl (s ním rozuměl)
+Byl jeden [D_(G)]pán (byl jeden pán)
+ten kozla [G_(C)]měl (ten kozla měl)
+velice [A_(D)]si (velice si)
+s ním rozu[D_(G)]měl (s ním rozuměl)
 měl ho moc rád (měl ho moc rád)
-opravdu [G (C)]moc (opravdu moc)
-hladil mu [A (D)]vous (hladil mu vous)
-na dobrou [D (G)]noc (na dobrou noc).
+opravdu [G_(C)]moc (opravdu moc)
+hladil mu [A_(D)]vous (hladil mu vous)
+na dobrou [D_(G)]noc (na dobrou noc).
 
 Jednoho dne (jednoho dne)
 se kozel splet (se kozel splet)
@@ -870,19 +873,18 @@ rudé tričko (rudé tričko)
 Ná ná ná na
 
 {new_song}
-{meta:title Já na to mám}
-{meta:subtitle Z lekcie gitary Michaely Medek}
-{meta:artist Natural}
-{meta:interpret_meno ???}
-{meta:interpret_priezvisko ???}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 29}
-{meta:link_lekcia https://www.youtube.com/watch?v=rgIuRMwAXeo}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1F2kyqIBszQpF2-G_302ah7-MQMGzXmjZ4NQuUFuOfgg/edit}
+{title: Já na to mám}
+{subtitle: Z lekcie gitary Michaely Medek}
+{x_spevnik_artist Natural}
+{x_spevnik_interpret_meno ???}
+{x_spevnik_interpret_priezvisko ???}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 29}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=rgIuRMwAXeo}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1F2kyqIBszQpF2-G_302ah7-MQMGzXmjZ4NQuUFuOfgg/edit}
 {comment: Rytmus: Dôraz na 3. dobu.}
 
 [Ami]Já se vyznám v [Dmi]tlačenici, [C]snad mi všichni [G]rozumí
@@ -910,19 +912,18 @@ zastavím se za maminkou, ta mě ráda podpoří
 **Já na to mám - tak si poskočím, tak si vyskočím...**
 
 {new_song}
-{meta:title Valčíček}
-{meta:subtitle Z lekcie gitary Michaely Medek}
-{meta:artist Brontosauři}
-{meta:interpret_meno ???}
-{meta:interpret_priezvisko ???}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 30}
-{meta:link_lekcia https://www.youtube.com/watch?v=_ULhHT4cTBs}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMemthdEo3cGEtTFE/view}
+{title: Valčíček}
+{subtitle: Z lekcie gitary Michaely Medek}
+{x_spevnik_artist Brontosauři}
+{x_spevnik_interpret_meno ???}
+{x_spevnik_interpret_priezvisko ???}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 30}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=_ULhHT4cTBs}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMemthdEo3cGEtTFE/view}
 {comment: Rytmus na 3 doby: ↓↑↑}
 
 **Tuhle [A]písničku chtěl bych ti [E]lásko dát.
@@ -947,19 +948,18 @@ To je pouto co [E]vede nás [A]dál.
 **Tuhle písničku chtěl bych ti lásko dát...**
 
 {new_song}
-{meta:title Nad stádem koní}
-{meta:subtitle Z lekcie gitary Michaely Medek}
-{meta:artist Buty}
-{meta:interpret_meno ???}
-{meta:interpret_priezvisko ???}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 31}
-{meta:link_lekcia https://www.youtube.com/watch?v=uEBLBxOLFAg}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1ewVUeVOI9sJYVXRrjpSwXRdaG_GYD-8PRuQd7mAF7VU/edit}
+{title: Nad stádem koní}
+{subtitle: Z lekcie gitary Michaely Medek}
+{x_spevnik_artist Buty}
+{x_spevnik_interpret_meno ???}
+{x_spevnik_interpret_priezvisko ???}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 31}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=uEBLBxOLFAg}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1ewVUeVOI9sJYVXRrjpSwXRdaG_GYD-8PRuQd7mAF7VU/edit}
 {comment: Valčíkový rytmus: ↓--↑↓↑}
 
 [D]Nad stádem [A]koní [Em]podkovy [G]zvoní, zvoní
@@ -983,16 +983,16 @@ vyhasnou kotel a náhoda je štěstí od podkovy.
 vyhasnul [D]kotel a [A]náhoda [Em]je štěstí od podko[G]vy. :/
 
 {new_song}
-{meta:title Zbohom buď}
-{meta:subtitle Z Dušanovho spevníka s akordami upravenými Verčou a mnou}
-{meta:artist Michal Dočolomanský}
-{meta:interpret_meno Michal}
-{meta:interpret_priezvisko Dočolomanský}
-{meta:lang sk}
-{meta:verzia 3}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 32}
-{meta:link_vzor_hudby TBD}
+{title: Zbohom buď}
+{subtitle: Z Dušanovho spevníka s akordami upravenými Verčou a mnou}
+{x_spevnik_artist Michal Dočolomanský}
+{x_spevnik_interpret_meno Michal}
+{x_spevnik_interpret_priezvisko Dočolomanský}
+{x_spevnik_lang sk}
+{x_spevnik_verzia 3}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 32}
+{x_spevnik_link_vzor_hudby TBD}
 
 [A]Zbohom buď, lipo[D]vá lyžka, 
 [A]žitia môjho [G]verná družka
@@ -1022,19 +1022,18 @@ kto to vie kto povie?
 čo naspieval v Dobrove
 
 {new_song}
-{meta:title Fajčenie škodí zdraviu}
-{meta:subtitle Z Dušanovho spevníka s akordom upraveným mnou}
-{meta:artist Vidiek}
-{meta:interpret_meno ???}
-{meta:interpret_priezvisko ???}
-{meta:name content}
-{meta:lang sk}
-{meta:verzia 2}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 33}
-{meta:link_lekcia https://www.youtube.com/watch?v=T0GtDu39vSc}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text http://www.supermusic.sk/skupina.php?action=piesen&idpiesne=1803}
+{title: Fajčenie škodí zdraviu}
+{subtitle: Z Dušanovho spevníka s akordom upraveným mnou}
+{x_spevnik_artist Vidiek}
+{x_spevnik_interpret_meno ???}
+{x_spevnik_interpret_priezvisko ???}
+{x_spevnik_lang sk}
+{x_spevnik_verzia 2}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 33}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=T0GtDu39vSc}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text http://www.supermusic.sk/skupina.php?action=piesen&idpiesne=1803}
 
 [Ami]Moja mama povedala, [F]aby som [E]nefaj[Ami]čil. 
 Aby som sa stránil dymu, nedýchal decht a nikotín. 
@@ -1049,13 +1048,12 @@ Plúca trocha zadymené s nepríjemným znamením.
 Božský pocit pri fajčení za zdravie si vymením
 
 {new_song}
-{meta:title Vyletel mozog z lebky}
-{meta:subtitle Z Dušanovho spevníka}
-{meta:name content}
-{meta:lang sk}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 33}
+{title: Vyletel mozog z lebky}
+{subtitle: Z Dušanovho spevníka}
+{x_spevnik_lang sk}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 33}
 
 1. Vyletel mozog z lebky, ó jak je zelený, ó jaký je hebký.
    Vyletel mozog z lebky, mozog z lebky vyletel.
@@ -1073,15 +1071,14 @@ Božský pocit pri fajčení za zdravie si vymením
    Čože to leží v tráve? Mozog z lebky vyletel.
 
 {new_song}
-{meta:title První signální}
-{meta:subtitle Dušanov text s akordami upravenými od Jardu.}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 34}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text http://www.supermusic.cz/skupina.php?idpiesne=37&sid=}
+{title: První signální}
+{subtitle: Dušanov text s akordami upravenými od Jardu.}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 34}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text http://www.supermusic.cz/skupina.php?idpiesne=37&sid=}
 {comment: Pri C a Emi v slohách držať 2 spodné struny z G.}
 
 Až si [G]zejtra ráno [C]řeknu zase [Emi]jednou provždy dost 
@@ -1106,16 +1103,15 @@ R:
 nana ...
 
 {new_song}
-{meta:title Pane prezidente}
-{meta:subtitle Z lekcie gitary Michaely Medek}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 35}
-{meta:link_lekcia https://www.youtube.com/watch?v=e3fec9fUfIM}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMSmVESzB3ek43WFE/view}
+{title: Pane prezidente}
+{subtitle: Z lekcie gitary Michaely Medek}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 35}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=e3fec9fUfIM}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMSmVESzB3ek43WFE/view}
 {comment: Vybrnkávanie: P12321}
 {comment: Valčíkový rytmus: ↓--↑↓↑}
 
@@ -1151,19 +1147,18 @@ vesmírem a vůbec všecko."
 Pane prezidente...
 
 {new_song}
-{meta:title Už mi lásko není 20 let}
-{meta:subtitle Z lekcie gitary Michaely Medek}
-{meta:artist Jiří Zmožek}
-{meta:interpret_meno Jiří}
-{meta:interpret_priezvisko Zmožek}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 36}
-{meta:link_lekcia https://www.youtube.com/watch?v=DaSNlgc51Mk}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMcDF4ajFqLTVKNVk/view}
+{title: Už mi lásko není 20 let}
+{subtitle: Z lekcie gitary Michaely Medek}
+{x_spevnik_artist Jiří Zmožek}
+{x_spevnik_interpret_meno Jiří}
+{x_spevnik_interpret_priezvisko Zmožek}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 36}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=DaSNlgc51Mk}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMcDF4ajFqLTVKNVk/view}
 
 [G]Už mi lásko není dvacet let, už mi není ani [Ami]dvacet pět
 Ikdyž to moc krásná [C]léta jsou, [D]nebral bych je ani [G]náhodou
@@ -1187,16 +1182,15 @@ Jestli zůstaneš nebo odcházíš
 jestli zůstaneš nebo odcházíš**
 
 {new_song}
-{meta:title Batalion}
-{meta:subtitle Verzia podľa Spiritual kvintet z lekcie gitary Michaely Medek s mojimi úpravami}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 2}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 37}
-{meta:link_lekcia https://www.youtube.com/watch?v=LChNLkdm4Xg}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMVmhRajMtNkRHaEE/view}
+{title: Batalion}
+{subtitle: Verzia podľa Spiritual kvintet z lekcie gitary Michaely Medek s mojimi úpravami}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 2}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 37}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=LChNLkdm4Xg}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://drive.google.com/file/d/0B7UqbWutQeXMVmhRajMtNkRHaEE/view}
 {comment: Vybrnkávanie (strofy): P12321}
 {comment: 3 dobý rytmus (refrén): ↓-↓↑↓↑}
 {comment: Pre tieto akordy kapodaster do 2. políčka.}
@@ -1225,19 +1219,18 @@ Víno máš a markytánku, dlouhá noc se prohýří
 Víno máš a chvilku spánku, díky, díky verbíři
 
 {new_song}
-{meta:title Povídej}
-{meta:subtitle Z lekcie gitary Michaely Medek}
-{meta:artist Petr Novák}
-{meta:interpret_meno Petr}
-{meta:interpret_priezvisko Novák}
-{meta:name content}
-{meta:lang cs}
-{meta:verzia 1}
-{meta:datum_poslednej_upravy 20161224}
-{meta:c_strany_v_papierovom_spevniku 38}
-{meta:link_lekcia https://www.youtube.com/watch?v=DU6dnRsFRdE}
-{meta:link_vzor_hudby TBD}
-{meta:link_original_text https://docs.google.com/document/d/1HLlEZ_0GQ4rYGfDCKokvcXA2bZtQRDZXrzsloPYE66Q/edit}
+{title: Povídej}
+{subtitle: Z lekcie gitary Michaely Medek}
+{x_spevnik_artist Petr Novák}
+{x_spevnik_interpret_meno Petr}
+{x_spevnik_interpret_priezvisko Novák}
+{x_spevnik_lang cs}
+{x_spevnik_verzia 1}
+{x_spevnik_datum_poslednej_upravy 20161224}
+{x_spevnik_c_strany_v_papierovom_spevniku 38}
+{x_spevnik_link_lekcia https://www.youtube.com/watch?v=DU6dnRsFRdE}
+{x_spevnik_link_vzor_hudby TBD}
+{x_spevnik_link_original_text https://docs.google.com/document/d/1HLlEZ_0GQ4rYGfDCKokvcXA2bZtQRDZXrzsloPYE66Q/edit}
 {comment: Vybrnkávanie (strofy): P12321}
 {comment: 3 dobý rytmus (refrén): ↓↑↑}
 
