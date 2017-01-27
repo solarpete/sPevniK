@@ -300,76 +300,80 @@ Click me to display Date and Time.</button>
 <!-- window.alert(5 + 6); -->
 <!-- </script> -->
 
-<!-- <!-- Priklad nacitania suboru, ktory ale funguje len vo Firefoxe (z ntice vyskusanych: --> -->
-<!-- <!-- Chrome, Firefox, Internet Explorer, Opera,  --> -->
-<!-- <script> -->
-  <!-- console.log(5 + 7); -->
+<!-- Priklad nacitania suboru, ktory ale funguje len vo Firefoxe (z ntice vyskusanych: -->
+<!-- Chrome, Firefox, Internet Explorer, Opera,  -->
+<!-- Ked to funguje, tak nacita cely obsah suboru do jedneho stringu -->
+<script>
+  console.log(5 + 7);
   
-  <!-- function readTextFile(file) -->
-  <!-- { -->
-    <!-- var rawFile = new XMLHttpRequest(); -->
-    <!-- rawFile.open("GET", file, false); -->
-    <!-- rawFile.onreadystatechange = function () -->
-    <!-- { -->
-      <!-- if(rawFile.readyState === 4) -->
-      <!-- { -->
-        <!-- if(rawFile.status === 200 || rawFile.status == 0) -->
-        <!-- { -->
-          <!-- var allText = rawFile.responseText; -->
-          <!-- alert(allText); -->
-        <!-- } -->
-      <!-- } -->
-    <!-- } -->
-    <!-- rawFile.send(null); -->
-  <!-- } -->
-  <!-- <!-- readTextFile("file:///C:/your/path/to/file.txt"); --> -->
+  function readTextFile(file)
+  {
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+      if(rawFile.readyState === 4)
+      {
+        if(rawFile.status === 200 || rawFile.status == 0)
+        {
+          var allText = rawFile.responseText;
+          alert(allText);
+          console.log(allText);
+        }
+      }
+    }
+    rawFile.send(null);
+  }
+  <!-- readTextFile("file:///C:/your/path/to/file.txt"); -->
+  console.log(5 + 8);
+  readTextFile("spevnik_PK.cho");
+  console.log(5 + 9);
   <!-- window.alert(5 + 6); -->
-  <!-- console.log(5 + 8); -->
-  <!-- readTextFile("spevnik_PK.cho"); -->
-  <!-- console.log(5 + 9); -->
-  <!-- window.alert(5 + 6); -->
-<!-- </script> -->
+  <!-- console.log(allText); -->
+</script>
 
 <script>
-  var oRequest = new XMLHttpRequest();
+  var chordpro = "[D]Na Okoř je cesta jako žádná ze sta [A]vroubená je stroma[D]ma,(stromama)"+
+"když jdu po ní v létě samoten na světě [A]sotva pletu noha[D]ma,(nohama)";
+
+  console.log(chordpro);
+</script>
+
+<!-- <script> -->
+  <!-- var oRequest = new XMLHttpRequest(); -->
   <!-- var sURL = "http://" -->
            <!-- + self.location.hostname -->
            <!-- + "/faq/requested_file.htm"; -->
-  <!-- var sURL = "http://" -->
-           <!-- + self.location.hostname -->
-           <!-- + "/sPevniK.cho"; -->
-  var sURL = "sPevniK.cho";
 
-  oRequest.open("GET",sURL,false);
-  <!-- oRequest.open("GET",sURL,true); Nefunguje! -->
-  oRequest.setRequestHeader("User-Agent",navigator.userAgent);
-  oRequest.send(null)
+  <!-- oRequest.open("GET",sURL,false); -->
+  <!-- oRequest.setRequestHeader("User-Agent",navigator.userAgent); -->
+  <!-- oRequest.send(null) -->
 
-  if (oRequest.status==200) alert(oRequest.responseText);
-  else alert("Error executing XMLHttpRequest call!");
-</script>
+  <!-- if (oRequest.status==200) alert(oRequest.responseText); -->
+  <!-- else alert("Error executing XMLHttpRequest call!"); -->
+<!-- </script> -->
 
-    <script>
-      var openFile = function(event) {
-        var input = event.target;
+    <!-- <script> -->
+      <!-- var openFile = function(event) { -->
+        <!-- var input = event.target; -->
 
-        var reader = new FileReader();
-        reader.onload = function(){
-          var text = reader.result;
-          var node = document.getElementById('output');
-          node.innerText = text;
-          console.log(reader.result.substring(0, 200));
-        };
-        reader.readAsText(input.files[0]);
-        <!-- reader.readAsText("spevnik_PK.cho"); -->
-      };
-    </script>
+        <!-- var reader = new FileReader(); -->
+        <!-- reader.onload = function(){ -->
+          <!-- var text = reader.result; -->
+          <!-- var node = document.getElementById('output'); -->
+          <!-- node.innerText = text; -->
+          <!-- console.log(reader.result.substring(0, 200)); -->
+        <!-- }; -->
+        <!-- reader.readAsText(input.files[0]); -->
+        <!-- <!-- reader.readAsText("spevnik_PK.cho"); --> -->
+      <!-- }; -->
+    <!-- </script> -->
 
-    <!-- <input type='file' accept='text/plain' onchange='openFile(event)'><br> -->
-    <input type='file' accept='text/plain' onchange='openFile(event)' value='/spevnik_PK.cho'><br>
-    <div id='output'>
-    ...
-    </div>
+    <!-- <!-- <input type='file' accept='text/plain' onchange='openFile(event)'><br> --> -->
+    <!-- <input type='file' accept='text/plain' onchange='openFile(event)' value='spevnik_PK.cho'><br> -->
+    <!-- <div id='output'> -->
+    <!-- ... -->
+    <!-- </div> -->
 
     
 </body>
