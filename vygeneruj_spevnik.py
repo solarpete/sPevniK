@@ -1,5 +1,71 @@
 import sys, os
 
+# Pre-written text to be copied to output html file:
+output_file_intro = '''<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="author" content="Peter Korenciak" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Želvov spevník v0.5</title>
+    
+    <!-- definicia internal CSS stylov: -->
+    <style>
+      body{
+        font-size: 100%;
+      }
+      <!-- pre {font-size: 120%;} -->
+      <!-- article{background-color: #FFE4C4} -->
+      article{
+        <!-- background-color: #FFFFF0; -->
+        <!-- border-style: ridge; -->
+        <!-- border-radius: 8px; -->
+      }
+      .akordy{
+        color:blue;
+        font-weight: bold;
+      }
+      .c_strany{
+        text-align: center;
+      }
+      .interpret{
+        font-variant: small-caps;
+      }
+      .pismena_indexu{color:magenta;}
+      pre{
+        margin: auto;
+      }
+      
+      .spacer{
+        margin-left: 10px;
+      }
+    </style>
+  </head>
+
+<body>
+  <h1>Želvov spevník</h1>
+  <p title="Verzia dokumentu">Verzia: 0.4</p>
+  <h2>Úvod</h2>
+  <p>V tomto spevníku nájdete všetky pesničky, ktoré viem alebo chcem vedieť hrať.</p>
+  <p>Okrem toho spevník obsahuje 3 cool veci:
+  <ul>
+    <li><a href="#index_p_mena">index podľa mena interpreta</a>,</li>
+    <li><a href="#index_p_priezv">index podľa priezviska interpreta</a>,</li>
+    <li><a href="#index_p_nazvu">index podľa názvu piesne</a>.</li>
+  </ul>
+  
+  Takže by nemal byť problém rýchlo nájsť pesničku, ktorú chcete (samozrejme ak
+  tu je :-)).
+  </p>
+  
+  <h2>Obsah</h2>
+  <h2>Piesne</h2>
+'''
+output_file_outro = '''</body>
+</html>
+'''
+
 # Globals:
 default_input_file = 'spevnik_PK.cho'   # Experimental
 default_output_file = 'spevnik_1.html'  # Temporary - po case to zmenim na
@@ -36,8 +102,16 @@ output_file = open(default_output_file, 'w', encoding="utf8")
 
 
 input_file_contents = input_file.readlines()
-output_file.write(input_file_contents[0])
-output_file.write(input_file_contents[1])
+song_number = 0
+input_file_contents
+for input_line in input_file_contents:
+    if input_line == "{new_song}\n":
+        song_number += 1
+        print('Current song number: ' + str(song_number))
+output_file.write(output_file_intro)
+output_file.write(output_file_outro)
+# output_file.write(input_file_contents[0])
+# output_file.write(input_file_contents[1])
 # print(input_file.read())
 
 
@@ -48,9 +122,9 @@ output_file.write(input_file_contents[1])
 input_file.close()
 output_file.close()
 
-while True:
-    print('Type exit to exit')
-    response = input()
-    if response == 'exit':
-        sys.exit()
-    print('You typed ' + response + '.')
+# while True:
+    # print('Type exit to exit')
+    # response = input()
+    # if response == 'exit':
+        # sys.exit()
+    # print('You typed ' + response + '.')
